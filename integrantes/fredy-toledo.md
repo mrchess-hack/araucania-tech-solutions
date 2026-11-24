@@ -12,8 +12,11 @@ Java, JSP, Bootstrap, MariaDB, Firebase y Visual Studio Code (tecnologías utili
 ## 4. Proyecto destacado
 **TrackControl** — Sistema en desarrollo para gestionar beneficiarios, rutas, entregas y evidencias del abastecimiento de agua. Su propósito es mejorar la planificación y trazabilidad mediante herramientas digitales. No se publican datos personales ni credenciales.
 
-## 5. Qué estoy aprendiendo: objetivo SMART
-Durante los próximos 60 días, hasta el 23 de enero de 2027, implementaré y probaré en un entorno de desarrollo tres funcionalidades de TrackControl con Firebase: autenticación, registro de entregas y consulta de registros. Dedicaré al menos tres horas semanales y verificaré el avance mediante tres pruebas documentadas, una por funcionalidad.
+## 5. Qué estoy aprendiendo — Objetivo SMART
+
+Durante los próximos 60 días, fortaleceré mis competencias en el desarrollo de aplicaciones web y móviles utilizando Firebase, dedicando al menos 5 horas semanales a implementar y validar tres funcionalidades del proyecto TrackControl: autenticación de usuarios, gestión de beneficiarios y registro georreferenciado de entregas de agua potable.
+
+Evaluaré mi progreso mediante pruebas funcionales, documentación técnica y registros de avances en GitHub.
 
 ## 6. Contacto
 A través de mi perfil de GitHub, que incorporaré aquí con mi enlace público.
